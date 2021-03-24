@@ -1,8 +1,5 @@
 package com.myrj.app.hard;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Question42 {
 
   public int trap(int[] heights) {
